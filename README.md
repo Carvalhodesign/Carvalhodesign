@@ -1,8 +1,5 @@
-### Olá! Eu sou Luan Carvalho
-
-- 🔭 Hoje trabalho com designer gráfico, em busca da transição de carreira. 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
-- 😄 Pronouns: ele/dele
+# 💫 About Me:
+Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas!<br><br>Atualmente formando em análise e desenvolvimento de sistemas,<br>e cursando alguns bootcamps de programação com foco em desen-<br>volvimento back-end e desen-<br>volvimento front-end  para agregar os conhecimentos adquiridos <br>junto a faculdade e assim conseguir me desenvolver como um <br>bom profissional na área de tecnologia.<br><br>
 
 <div align="center">
   <a href="https://github.com/Carvalhodesign">
