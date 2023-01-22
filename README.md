@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas!<br><br>Atualmente formando em análise e desenvolvimento de sistemas,<br>e cursando alguns bootcamps de programação com foco em desen-<br>volvimento back-end e desen-<br>volvimento front-end  para agregar os conhecimentos adquiridos <br>junto a faculdade e assim conseguir me desenvolver como um <br>bom profissional na área de tecnologia.<br><br>
+Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas!Atualmente formando em análise e desenvolvimento de sistemas,e cursando alguns bootcamps de programação com foco em desenvolvimento back-end e desenvolvimento front-end  para agregar os conhecimentos adquiridos junto a faculdade e assim conseguir me desenvolver como um bom profissional na área de tecnologia.
 
 <div align="center">
   <a href="https://github.com/Carvalhodesign">
